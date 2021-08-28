@@ -1,4 +1,5 @@
 #!/usr/bin/env python3 
+# Written by Vosman @vosNETCyber 2021
 
 import binascii
 import requests
