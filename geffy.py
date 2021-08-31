@@ -208,7 +208,7 @@ This can be done as follows:
 Command: xxd -p -r img.hex > img.<img extension>
 
 Thanks for using the script, I hope you found it useful.
-Vosman @vosNET-Cyber
+Vosman @vosNETCyber
 		''')
 
 main()
