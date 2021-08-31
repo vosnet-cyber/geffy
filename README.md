@@ -11,13 +11,13 @@ To utilise the IPC search function (which is the default) you'll need to grab a 
 
 I'm sure there are few other ways to get setup, but this is how I did it:
 1. Ensure you have the requisite software installed:
-	1. Ensure the Golang is updated
+	1. Ensure Golang is updated
 	2. Get any other software pre-requisites installed
 	3. Clone the Go-Ethereum repository (https://github.com/ethereum/go-ethereum)
 	4. Make and run the geth binary
 	5. Use geffy.py to select date range and let it find images for you
 
-I know this script may not be the most efficient or best coding in the world and I know my instructions are a bit vague. I'm kind of happy about that because if you found this because of a "challenge" you might be doing I don't want it to be so simple as to be an automatic win. I hope this helps you speed up the enumeration that would be long grind if done manually and that you play around with it, amend it, understand the whole challenge, and learn by trial and error trying to get everything setup and working because that's what those challenges are about.
+I know this script may not be the most efficient or best coding in the world and I know my instructions are a bit vague. I'm kind of happy about that because if you found this because of a "challenge" you might be doing I don't want it to be so simple as to be an automatic win. I hope this helps you speed up the enumeration that would be long grind if done manually. Play around with it, amend it, understand the whole challenge, and learn by trial and error to get everything setup and working because that's what these challenges are about.
 
 Other resources:
 https://geth.ethereum.org/docs/install-and-build/installing-geth
